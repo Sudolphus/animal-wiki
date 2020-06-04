@@ -3,6 +3,16 @@ img {
   max-height: 100%;
 }
 
+body {
+  font-family: sans-serif;
+}
+
 .center {
   text-align: center;
+}
+
+.animalText {
+  display: none;
+  border: 3px solid black;
+  background-color: lightblue;
 }
