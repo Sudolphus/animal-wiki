@@ -1,12 +1,12 @@
-# _{Application Name}_
+# _Animal Wiki_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _A wiki of animals, 06.04.2020_
 
-#### By _**Micheal Hansen**_
+#### By _**Micheal Hansen and Tristan Emmerson**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_A wiki of three animals, which can show or hide additional infomation based on the user's clicks_
 
 ## Setup/Installation Requirements
 
@@ -20,18 +20,15 @@ Open by downloading:
 
 Open via Bash/GitBash:
 1. Clone this repository onto your computer:
-`git clone {PUT_REPO_HERE}`
-2. Navigate into the `{NAME_OF_DIRECTORY}` directory in Visual Studio Code or preferred text editor
+`git clone https://github.com/Sudolphus/animal-wiki`
+2. Navigate into the `animal-wiki` directory in Visual Studio Code or preferred text editor
 `code .`
 3. Open index.html in Chrome or preferred browser:
 `open index.html`
 
-#### To see my live website go to {GH_PAGES_LINK_HERE}!
-
-
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_None currently_
 
 ## Support and contact details
 
