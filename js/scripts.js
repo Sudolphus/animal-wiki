@@ -34,6 +34,16 @@ $(document).ready(function() {
       $("div#turtle").addClass("shown");
     };
   });
+
+  $("button#dayNight").click(function() {
+    if ($("body").attr('class') === "dayMode") {
+      $("body").removeClass("dayMode");
+      $("body").addClass("nightMode");
+    } else {
+      $("body").removeClass("nightMode");
+      $("body").addClass("dayMode");
+    };
+  })
 })
 
 function marker(clsName) {

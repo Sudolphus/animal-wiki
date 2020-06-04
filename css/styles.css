@@ -13,6 +13,14 @@ body {
 
 .animalText {
   display: none;
-  border: 3px solid black;
-  background-color: lightblue;
+}
+
+.dayMode {
+  background-color: white;
+  color: black;
+}
+
+.nightMode {
+  background-color: black;
+  color: white;
 }
